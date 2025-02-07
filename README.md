@@ -4,3 +4,5 @@ In a neural network, "bias" refers to a constant value added to the weighted sum
 
 # Why we need weight in neural network?
 Weights set the standards for the neuron's signal strength. This value will determine the influence input data has on the output product.
+# What is the weight range of a neural network?
+The weights in the network are initialized to small random numbers ranging for example from `-1.0 to 1.0`, or `-0.5 to 0.5`.
